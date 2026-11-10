@@ -6,6 +6,20 @@ Aplicação web progressiva (**PWA**) para estúdios de beleza e nail designers,
 
 ---
 
+## 📺 Demonstração do Sistema
+
+https://github.com/user-attachments/assets/demo-bplanner
+
+<p align="center">
+  <video src="https://github.com/AriellPureza61/b-planner/raw/main/docs/demo-bplanner.mp4" controls="controls" width="100%" style="max-height: 520px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
+    Seu navegador não suporta a tag de vídeo. Você pode <a href="docs/demo-bplanner.mp4">baixar ou assistir o vídeo clicando aqui</a>.
+  </video>
+</p>
+
+> 🎬 **Download direto:** [▶️ `docs/demo-bplanner.mp4` (Vídeo de Demonstração em Alta Definição)](docs/demo-bplanner.mp4)
+
+---
+
 ## ✨ Funcionalidades Principais
 
 - **📅 Agendamento Interativo em Tempo Real:** Cálculo automático de disponibilidade, tempo de procedimento + buffer de higienização e prevenção de conflito de agenda.
